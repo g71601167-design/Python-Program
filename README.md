@@ -1,2 +1,2 @@
 # Python-Program
-This python program includes simple python programs created for learning basic concepts and Github pratice
+This python program includes simple python programs created for learning basic concepts and Github pratice.
